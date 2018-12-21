@@ -37,7 +37,7 @@ MOVESPEED = 6
 
 # Set up the music
 pickUpSound = pygame.mixer.Sound('pickup.wav')
-pygame.mixer.music.load('background.mid')
+pygame.mixer.music.load('background_1.mid')
 pygame.mixer.music.play(-1,0.0)
 musicPlaying = True
 
